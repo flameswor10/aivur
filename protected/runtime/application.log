@@ -1,0 +1,84 @@
+2012/11/25 09:41:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "aboutus".' in B:\webroot\aivur\yii\framework\web\CController.php:484
+Stack trace:
+#0 B:\webroot\aivur\yii\framework\web\CController.php(271): CController->missingAction('aboutus')
+#1 B:\webroot\aivur\yii\framework\web\CWebApplication.php(283): CController->run('aboutus')
+#2 B:\webroot\aivur\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/aboutus')
+#3 B:\webroot\aivur\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 B:\webroot\aivur\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/aivur/site/aboutus
+HTTP_REFERER=http://localhost/aivur/site/index
+---
+2012/11/25 09:41:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "aboutus".' in B:\webroot\aivur\yii\framework\web\CController.php:484
+Stack trace:
+#0 B:\webroot\aivur\yii\framework\web\CController.php(271): CController->missingAction('aboutus')
+#1 B:\webroot\aivur\yii\framework\web\CWebApplication.php(283): CController->run('aboutus')
+#2 B:\webroot\aivur\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/aboutus')
+#3 B:\webroot\aivur\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 B:\webroot\aivur\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/aivur/site/aboutus
+HTTP_REFERER=http://localhost/aivur/site/index
+---
+2012/11/25 09:42:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "aboutus".' in B:\webroot\aivur\yii\framework\web\CController.php:484
+Stack trace:
+#0 B:\webroot\aivur\yii\framework\web\CController.php(271): CController->missingAction('aboutus')
+#1 B:\webroot\aivur\yii\framework\web\CWebApplication.php(283): CController->run('aboutus')
+#2 B:\webroot\aivur\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/aboutus')
+#3 B:\webroot\aivur\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 B:\webroot\aivur\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/aivur/site/aboutus
+HTTP_REFERER=http://localhost/aivur/site/index
+---
+2012/11/25 09:42:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "aboutus".' in B:\webroot\aivur\yii\framework\web\CController.php:484
+Stack trace:
+#0 B:\webroot\aivur\yii\framework\web\CController.php(271): CController->missingAction('aboutus')
+#1 B:\webroot\aivur\yii\framework\web\CWebApplication.php(283): CController->run('aboutus')
+#2 B:\webroot\aivur\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/aboutus')
+#3 B:\webroot\aivur\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 B:\webroot\aivur\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/aivur/site/aboutus
+HTTP_REFERER=http://localhost/aivur/site/index
+---
+2012/11/25 09:42:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "aboutus".' in B:\webroot\aivur\yii\framework\web\CController.php:484
+Stack trace:
+#0 B:\webroot\aivur\yii\framework\web\CController.php(271): CController->missingAction('aboutus')
+#1 B:\webroot\aivur\yii\framework\web\CWebApplication.php(283): CController->run('aboutus')
+#2 B:\webroot\aivur\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/aboutus')
+#3 B:\webroot\aivur\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 B:\webroot\aivur\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/aivur/site/aboutus
+HTTP_REFERER=http://localhost/aivur/site/index
+---
+2012/11/25 09:50:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "aboutus".' in B:\webroot\aivur\yii\framework\web\CController.php:484
+Stack trace:
+#0 B:\webroot\aivur\yii\framework\web\CController.php(271): CController->missingAction('aboutus')
+#1 B:\webroot\aivur\yii\framework\web\CWebApplication.php(283): CController->run('aboutus')
+#2 B:\webroot\aivur\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('site/aboutus')
+#3 B:\webroot\aivur\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#4 B:\webroot\aivur\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/aivur/site/aboutus
+HTTP_REFERER=http://localhost/aivur/site/index
+---
+2012/11/28 16:24:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "scripts/jquery.min.js".' in B:\webroot\aivur\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 B:\webroot\aivur\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('scripts/jquery....')
+#1 B:\webroot\aivur\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 B:\webroot\aivur\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/codeify/scripts/jquery.min.js
+HTTP_REFERER=http://localhost/codeify/
+---
+2012/11/28 16:24:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "scripts/jquery.min.js".' in B:\webroot\aivur\yii\framework\web\CWebApplication.php:287
+Stack trace:
+#0 B:\webroot\aivur\yii\framework\web\CWebApplication.php(142): CWebApplication->runController('scripts/jquery....')
+#1 B:\webroot\aivur\yii\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#2 B:\webroot\aivur\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/codeify/scripts/jquery.min.js
+HTTP_REFERER=http://localhost/codeify/
+---
